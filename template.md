@@ -1,6 +1,8 @@
 
 # TAPPs template
 
+[** View raw to see prompts**](https://raw.githubusercontent.com/evanorti/tapp/main/template.md)
+
 # Title
 
 - Authors
