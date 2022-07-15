@@ -1,6 +1,8 @@
-# TAPPs template
+# TAPPs framework
 
-## Title
+- [**Markdown Template**](./template.md)
+
+# Title
 
 - Authors
 - Team
