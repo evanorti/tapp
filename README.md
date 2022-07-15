@@ -19,7 +19,7 @@ More moving parts mean more potential for problems. Excessively complex mechanis
 
 ### Prototype fast. Then build a solid foundation. 
 
-Quick and dirty is amazing for prototypes, but quality products are built with solid foundations. After prototyping, take a bit of time to think about your foundation. All products evolve from their initial designs. Stay organized from the start by using a TAPP
+Quick and dirty is amazing for prototypes, but quality products are built with solid foundations. After prototyping, take a bit of time to think about your foundation. All products evolve from their initial designs. Stay organized from the start by using a TAPP.
 
 ### If you don't have time to build it right, you definitely don't have time to build it again. 
 
