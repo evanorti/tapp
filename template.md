@@ -1,7 +1,7 @@
 
 # TAPPs template
 
-## Title
+# Title
 
 - Authors
 - Team
