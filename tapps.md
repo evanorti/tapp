@@ -13,7 +13,7 @@
 
 ###  Introduction and summary
 
-Write this section last. 3-4 sentences max. Introduce the product and provide a basic overview using key information from this document. Overviews should be easily understood by normies.
+Skip this for now. Come back at the end and write this section last. 3-4 sentences max. Introduce the product and provide a basic overview using key information from this document. Overviews should be easily understood by normies.
 
 ### The problem
 
@@ -42,7 +42,7 @@ Don't get too technical yet. Be specific. Be clear. Don't be vague or rely on bu
 
 ### Value proposition
 
-Why would choose to use this product over another product? What is unique about the product? How does it solve the problem better than existing solutions?
+Why would anyone choose to use this product over another product? What is unique about the product? How does it solve the problem better than existing solutions?
 
 Questions to consider:
 
@@ -95,13 +95,13 @@ How will the tokens work?
 
 What is unique about the token?
 
-Why would anyone want to hold the token?
+What utility does the token have? Why would anyone want to hold the token?
 
-Will the token go up in price? 
+Will the token generate value or go up in price? 
 
 If the token is locked, what will stop a dump upon unlock?
 
-What is the genesis distribution?
+What is the initial distribution?
 
 ## Marketing
 
@@ -109,7 +109,8 @@ Describe a marketing plan. Will marketing be on Twitter? How can you get the wor
 
 ### Name and branding
 
-What is the name of the product? What will the branding look like?
+What is the name of the product? Provide a brief explanation of the name. What will the branding look like?
+What are the colors? Is there a logo? 
 
 ## Copy
 
@@ -128,6 +129,6 @@ What is your estimated timeline for launch?
 Identify key milestones, such as contract completion, code audit, front-end development, launch plan, etc. 
 
 
-**Once you finich filling out this TAPP, go back to the [Introduction and summary](#introduction-and-summary) and fill it out.** 
+**Once you finish filling out this TAPP, go back to the [Introduction and summary](#introduction-and-summary) and fill it out.** 
 
 
